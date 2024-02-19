@@ -1,0 +1,14 @@
+body {
+	font-family:"Open Sans",verdana,sans-serif; 
+	padding: 20px;
+}
+
+.content-wrapper {
+	margin: 50px;
+	padding: 20px;
+	
+}
+
+.item-price { font-size: 48px; font-weight: bold; margin: 10px 20px; } 
+
+img.product-1 { width: 400px; }
